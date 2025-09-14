@@ -18,6 +18,7 @@
         mexcuda upsample.cu
    
    Next, you can perform the following steps:
+   
         (1) Put the test images into the images/ folder.
    
         (2) Run test.m in MATLAB.
