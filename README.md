@@ -2,7 +2,7 @@
 
 1. This code is for the paper：
    
-   Learning deep priors: variational optimization inspired unfolding network for underwater image enhancement (currently under review in IEEE Transactions on Neural Networks and Learning Systems1).
+   Learning Deep Priors: Variational Optimization Inspired Unfolding Network for Underwater Image Enhancements (currently under review).
 
 2. Installation
 
