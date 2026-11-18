@@ -4,8 +4,6 @@
    
    Learning Deep Priors: Variational Optimization Inspired Unfolding Network for Underwater Image Enhancements (currently under review).
 
-   The SDRUI dataset can be downloaded from [Baidu Cloud](https://pan.baidu.com/s/15zxvQvZ0hyAPApY8_rfHOw?pwd=UIQA) (Password：UIQA).
-
 3. Installation
 
    This code is based on MatConvNet package. We provide a precompiled "matlab" folder. You can download from [Baidu Cloud]( https://pan.baidu.com/s/1FPwMV58hdevJpKhsQ-1zOw?pwd=LPVU ) (Password：LPVU) and [Google Drive](https://drive.google.com/file/d/108ZjaqEIovvfRyVj4zIv0r5kurmxUv92/view?usp=drive_link), and extract it into the project root directory.
